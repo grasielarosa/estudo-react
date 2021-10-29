@@ -15,5 +15,6 @@ module.exports = {
   plugins: ["react"],
   rules: {
     "react/state-in-constructor": 0,
+    "react/forbid-prop-types": 0,
   },
 };
